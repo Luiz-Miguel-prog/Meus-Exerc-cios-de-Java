@@ -1,2 +1,2 @@
 # Meus-Exerc-cios-de-Java
-Exercícios de Java concluídos por mim.
+Exercicios de Java concluídos por mim.
